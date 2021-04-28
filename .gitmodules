@@ -10,3 +10,11 @@
 [submodule "dear-imgui-project/Packages/dear-imgui-unity"]
 	path = dear-imgui-project/Packages/dear-imgui-unity
 	url = https://github.com/realgamessoftware/dear-imgui-unity.git
+[submodule "src/WybImGui.NET"]
+	path = src/WybImGui.NET
+	url = git@github.com:wyb314/ImGui.NET.git
+	branch = master
+[submodule "src/WybCimgui"]
+	path = src/WybCimgui
+	url = git@github.com:wyb314/cimgui.git
+	branch = master
